@@ -1,11 +1,10 @@
-### Hola!, Mi nombre es Alfredo Torres👋
-
-Soy Front-End Developer con más de 2 años de experiencia, eh colaborado con algunos proyectos privados. Actualmente sigo capacitandome en la Escuela de Desarrollo Web en Platzi, mi meta es llegar a ser un FullStack Developer, me apasiona la tecnología, busco seguir aprendiendo, participar en proyectos, y compartir mi experiencia con la comunidad de desarroladores.
-
-Lenguajes que manejo:
-
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Sass.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
+### Hola!, Mi nombre es Luis Torres👋
+Soy FrontEnd Developer.
+<br>
+Con experiencia en HTML, CSS, JavaScript, Git y GitHub. Enfoque en diseño responsivo y desarrollo de interfaces intuitivas y atractivas. Comprometido con el aprendizaje continuo y la implementación de las mejores prácticas de desarrollo web. Apasionado por la creación de experiencias de usuario excepcionales y colaborador eficaz en equipos multidisciplinarios. Buscando oportunidades para contribuir a proyectos innovadores y desafiantes.
+## Tecnologías:
+![Static Badge](https://img.shields.io/badge/HTML5-E34C25?style=for-the-badge&logo=html5&logoColor=E34C25&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CSS3-006FB9?style=for-the-badge&logo=css3&logoColor=006FB9&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=F7E025&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Git-EF5032?style=for-the-badge&logo=git&logoColor=EF5032&labelColor=black)
+![Static Badge](https://img.shields.io/badge/GitHub-161414?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
