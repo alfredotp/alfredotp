@@ -6,6 +6,7 @@ Con experiencia en HTML, CSS, JavaScript, Git y GitHub. Enfoque en diseño respo
 ![Static Badge](https://img.shields.io/badge/HTML5-E34C25?style=for-the-badge&logo=html5&logoColor=E34C25&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS3-006FB9?style=for-the-badge&logo=css3&logoColor=006FB9&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Sass-CD6699?style=for-the-badge&logo=sass&logoColor=%23CD6699&labelColor=%23000)
+![Static Badge](https://img.shields.io/badge/Gulp-D34947?style=for-the-badge&logo=gulp&logoColor=%23D34947&labelColor=%23000)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=F7E025&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Git-EF5032?style=for-the-badge&logo=git&logoColor=EF5032&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-161414?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
