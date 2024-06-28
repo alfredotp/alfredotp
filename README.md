@@ -11,8 +11,6 @@ Con experiencia en HTML, CSS, JavaScript, Git y GitHub. Enfoque en diseño respo
 ![Static Badge](https://img.shields.io/badge/Git-EF5032?style=for-the-badge&logo=git&logoColor=EF5032&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-161414?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 
-# Readme
-
 > [!NOTE]
 > Esto es información adicional que puede ayudar al usuario
 
